@@ -1,6 +1,6 @@
 {
   "name": "eeh-drag-scroll",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/ethanhann/eeh-drag-scroll",
   "authors": [
     "Ethan Hann <ethanhann@gmail.com>"
@@ -21,7 +21,12 @@
     "test",
     "tests"
   ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "jquery": "~1.10.2"
+  },
   "devDependencies": {
-    "jasmine": "~2.0.0"
+    "jasmine": "~2.0.0",
+    "angular-mocks": "~1.2.16"
   }
 }
