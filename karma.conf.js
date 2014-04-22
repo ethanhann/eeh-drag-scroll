@@ -13,7 +13,7 @@ module.exports = function (config) {
         port: 8080,
         logLevel: config.LOG_INFO,
         autoWatch: false,
-        browsers: ['Chrome'],
+        browsers: ['PhantomJS'],
         singleRun: true
     });
 };
