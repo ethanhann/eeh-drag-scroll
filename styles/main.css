@@ -1,0 +1,20 @@
+.container {
+    width: 600px;
+    padding-bottom: 30px;
+}
+
+.jumbotron {
+    background-color: #8A0CE8;
+}
+
+.btn.btn-primary {
+    background-color: #1F75FE;
+}
+
+.footer {
+    padding-top: 30px;
+}
+
+.eeh-drag-scroll {
+    border: 1px solid #DDDDDD;
+}
