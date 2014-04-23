@@ -6,5 +6,5 @@ node_js:
 before_install:
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
-  - npm install -g karma bower
-  - bower install
+  - npm install bower
+  - ./node_modules/bower/bin/bower install
