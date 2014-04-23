@@ -1,0 +1,42 @@
+{
+  "name": "eeh-drag-scroll",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ethanhann/eeh-drag-scroll",
+  "authors": [
+    "Ethan Hann <ethanhann@gmail.com>"
+  ],
+  "description": "AngularJS directive for horizontal drag scrolling",
+  "main": "src/eeh-drag-scroll.js",
+  "keywords": [
+    "angularjs",
+    "directive",
+    "drag",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {
+    "jasmine": "~2.0.0",
+    "angular-mocks": "~1.2.16"
+  },
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "43954ef45e9d95fb44f525df79d04256467f120a"
+  },
+  "_source": "git://github.com/ethanhann/eeh-drag-scroll.git",
+  "_target": "~0.0.1",
+  "_originalSource": "eeh-drag-scroll",
+  "_direct": true
+}
