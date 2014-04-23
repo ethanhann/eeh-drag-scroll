@@ -1,7 +1,7 @@
 .eeh-drag-scroll {
     width: 100%;
     overflow-x: auto;
-    overflow-y: auto;
+    overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
 }
